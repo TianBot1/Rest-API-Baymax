@@ -102,13 +102,13 @@ app.use(function (req, res, next) {
     });
   }
 });
-CFonts.say('Baymax API', {
+CFonts.say('Zekais API', {
   font: 'block',
   align: 'center',
   gradient: ['red', 'magenta']
 })
 
-CFonts.say(`Recode By Christian ID`, {
+CFonts.say(`Recode By David`, {
   font: 'console',
   align: 'center',
   gradient: ['blue', 'yellow']
